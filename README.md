@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/z9XVNL3.gif">
 - 🔭 I’m currently working on [saru-portfolio]
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **Microsoft Azure & Game Development**
 
 - 💬 Ask me about **Cloud, MERN**
 
